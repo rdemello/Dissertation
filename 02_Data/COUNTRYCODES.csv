@@ -1,0 +1,31 @@
+Country,Code,OECD,Income
+Argentina,ARG,NON-OECD,MIC
+Australia,AUS,OECD,HIC
+Brazil,BRA,NON-OECD,MIC
+Canada,CAN,OECD,HIC
+China,CHN,NON-OECD,MIC
+"Congo, Dem. Rep.",COD,NON-OECD,LIC
+"Egypt, Arab Rep.",EGY,NON-OECD,MIC
+France,FRA,OECD,HIC
+Germany,DEU,OECD,HIC
+India,IND,NON-OECD,MIC
+Indonesia,IDN,NON-OECD,MIC
+"Iran, Islamic Rep.",IRN,NON-OECD,MIC
+Italy,ITA,OECD,HIC
+Japan,JPN,OECD,HIC
+"Korea, Rep.",KOR,OECD,HIC
+Malaysia,MYS,NON-OECD,MIC
+Mexico,MEX,OECD,MIC
+Nigeria,NGA,NON-OECD,MIC
+Pakistan,PAK,NON-OECD,MIC
+Poland,POL,OECD,HIC
+Russian Federation,RUS,NON-OECD,MIC
+Saudi Arabia,SAU,NON-OECD,HIC
+South Africa,ZAF,NON-OECD,MIC
+Spain,ESP,OECD,HIC
+Thailand,THA,NON-OECD,MIC
+Turkey,TUR,OECD,MIC
+United Kingdom,GBR,OECD,HIC
+United States,USA,OECD,HIC
+"Venezuela, RB",VEN,NON-OECD,MIC
+Vietnam,VNM,NON-OECD,MIC
